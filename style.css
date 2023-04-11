@@ -6931,6 +6931,14 @@ Additions < 10
     color: #ffffff;
 }
 
+.googlebusiness{
+    display:flex;
+    position: relative;
+    margin: auto 0px;
+    width: 100%;
+    text-align: center;
+    padding: auto;
+}
 /*
 ==============================
 INTERNET EXPLORER < 11
